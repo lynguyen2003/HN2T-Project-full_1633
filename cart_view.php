@@ -155,7 +155,7 @@ function getTotal(){
 }
 </script>
 <!-- Paypal Express -->
-<script>
+<!-- <script>
 paypal.Button.render({
     env: 'sandbox', // change for production if app is live,
 
@@ -194,6 +194,6 @@ paypal.Button.render({
     },
 
 }, '#paypal-button');
-</script>
+</script> -->
 </body>
 </html>
